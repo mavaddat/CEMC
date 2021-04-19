@@ -11,6 +11,8 @@ each cell in the row or column from black to gold or gold to black.
 Given the artist's choices, your job is to determine how much gold
 appears in the pattern determined by these choices.
 
+![Daniel Rozin, “PomPom Mirror,” 2015%0ADaniel%20Rozin%0A%22PomPom%20Mirror%2C%22%202015%0A928%20faux%20fur%20pom%20poms%2C%20464%20motors%2C%20control%20electronics%2C%20xbox%20kinect%20motion%20sensor%2C%20mac-mini%20computer%2C%20custom%20Software%2C%20wooden%20armature%0A48%20x%2048%20x%2018%20in%20%2F%20121.9%20x%20121.9%20x%2045.7%20cm%0AEdition%20of%206%0A%0ARozin%E2%80%99s%20anthropomorphic%20%22PomPom%20Mirror%22%20features%20a%20synchronized%20array%20of%20928%20spherical%20faux%20fur%20puffs.%20Organized%20into%20a%20three-dimensional%20grid%20of%20beige%20and%20black%2C%20the%20sculpture%20is%20controlled%20by%20hundreds%20of%20motors%20that%20build%20silhouettes%20of%20viewers%20using%20computer-vision.%20Along%20its%20surface%2C%20figures%20appear%20as%20fluffy%20animal-like%20representations%20within%20the%20picture%20plane%2C%20which%20is%20made%20permeable%20by%20a%20%E2%80%98push-pull%E2%80%99%20forward%20and%20backward%20motion%20of%20meshed%20%E2%80%98pixels%E2%80%99.%20Ghostly%20traces%20fade%20and%20emerge%2C%20as%20the%20motorized%20composition%20hums%20in%20unified%20movement%2C%20seemingly%20alive%20and%20breathing%20as%20a%20body%20of%20its%20own.%0A%0AFilmed%20and%20edited%20by%20Victoria%20Sendra.](rozin.gif)
+
 ### Input Specification
 
 The first line of input will be a positive integer *M*. The second line
