@@ -25,6 +25,8 @@ will always be at least 100.
 Your job is to decode the instructions so the assistant can use them to
 find the secret formula.
 
+![Directions](directions-02.gif)
+
 ### Input Specification
 
 There will be at least two lines of input. Each line except the last

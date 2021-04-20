@@ -9,6 +9,8 @@ the person who has placed the highest bid. If there is a tie, the person
 whose bid was placed first wins. Your job is to determine the winner of
 the silent auction.
 
+![Auction](PinClipart.com_auction-clip-art_5442706.png)
+
 ### Input Specification
 
 The first line of input contains a positive integer *N*, where 1 ≤*N*≤
