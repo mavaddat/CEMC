@@ -77,4 +77,3 @@ level.
 When *B* = 102, we can substitute into the formula and get *P* = 5 × 102
 − 400 which equals 110. Since 110kPa is greater than 100kPa, you are
 below sea level.
-
